@@ -1,7 +1,11 @@
 from bocadillo import App
 
+import settings
+
+
 app = App()
 
 @app.route("/")
 async def index(req, res):
-    res.text = "Hello World!"
+    title = settings.config.get("Title")
+    res.text = f"Site Title: {title}"

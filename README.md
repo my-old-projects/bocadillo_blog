@@ -8,3 +8,4 @@ This is a git repository for the Bocadillo blog application. Tutorials will publ
 
 - [Installation](./docs/installation.md)
 - [Project Structure](./docs/project-structure.md)
+- [Settings](./docs/settings.md)
