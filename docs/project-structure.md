@@ -45,3 +45,5 @@ Now it is more elegant :) I think this is very important because you don't want 
 
 
 The next thing will be about settings.
+
+[Next -> Settings](./settings.md)
