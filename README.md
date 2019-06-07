@@ -4,7 +4,7 @@ This is a git repository for the Bocadillo blog application. Tutorials will publ
 
 ## Current Docs
 
-[All Docs](https://github.com/aligoren/bocadillo_blog/docs)
+[All Docs](./docs)
 
-- [Installation](https://github.com/aligoren/bocadillo_blog/docs/installation.md)
-- [Project Structure](https://github.com/aligoren/bocadillo_blog/docs/project-structure.md)
+- [Installation](./docs/installation.md)
+- [Project Structure](./docs/project-structure.md)
