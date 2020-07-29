@@ -15,7 +15,7 @@ six==1.12.0
 starlette==0.12.0
 typesystem==0.2.2
 urllib3==1.25.3
-uvicorn==0.7.2
+uvicorn==0.11.7
 uvloop==0.12.2
 websockets==7.0
 whitenoise==4.1.2
